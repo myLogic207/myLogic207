@@ -10,3 +10,5 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: Issue on this repo, mail [*lijon.fogel@gmail.com*](mailto:lijon.fogel@gmail.com)  or contact me via whatsapp
 - 😄 Pronouns: He/they
 - ⚡ Fun fact: I like "Mohnschnecken" and am indeed from germany ^~^
+
+[![myLogic207's GitHub stats](https://github-readme-stats.vercel.app/api?username=myLogic207&show_icons=true&theme=radical)](https://github.com/myLogic207)
