@@ -16,5 +16,5 @@ Here are some ideas to get you started: -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myLogic207&theme=tokyonight&layout=compact&langs_count=8?theme=tokyonight)](https://github.com/myLogic207)
 
 ---
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/myLogic207)
+|-|-|
+|[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/myLogic207)|[![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/9j9MraNx8v)|
