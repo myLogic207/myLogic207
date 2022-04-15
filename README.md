@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a VR headset at [CFVR]() and my [jobschool repo](https://github.com/myLogic207/IF11C) ([website](https://myLogic207.github.io))
+- 🔭 I’m currently working on a VR headset at [CFVR]() and my [vocationalschool repo](https://github.com/myLogic207/IF11C) ([website](https://myLogic207.github.io))
 - 🌱 I’m currently learning IT stuff for work, school and my project
 - 📫 How to reach me: Issue on this repo, work mail [*lijon.f@cfvrtech.net*](mailto:lijon.fogel@gmail.com)  / personal mail [*lijon.fogel@gmail.com*](mailto:lijon.fogel@gmail.com) or contact me via whatsapp 😉
 - 😄 Pronouns: He/they
