@@ -17,5 +17,4 @@ Here are some ideas to get you started: -->
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/myLogic207) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/9j9MraNx8v) 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/myLogic207) [![Chat](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9j9MraNx8v) 
