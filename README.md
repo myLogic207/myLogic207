@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I like "Mohnschnecken" and am indeed from germany ^~^
 
 [![myLogic207's GitHub stats](https://github-readme-stats.vercel.app/api?username=myLogic207&show_icons=true&theme=github_dark)](https://github.com/myLogic207)\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myLogic207&theme=github_dark&langs_count=8)](https://github.com/myLogic207)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myLogic207&theme=github_dark&layout=compact&langs_count=8)](https://github.com/myLogic207)
 
 ---
 
